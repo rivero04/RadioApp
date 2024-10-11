@@ -15,9 +15,7 @@ Una aplicación de radio online desarrollada en **React Native** que permite a l
 - **React Native**: Para el desarrollo de la aplicación móvil multiplataforma.
 - **Expo**: Para facilitar el desarrollo y la implementación.
 - **React Navigation**: Para la navegación entre pantallas.
-- **Context API**: Para manejar el estado global de la aplicación.
-- **API de Radio**: Conexión a una API de radios online (detalla aquí si usaste alguna API en particular).
-
+- **API de Radio**: Conexión a una API de radios online.
 ## Instalación
 
 ### Requisitos previos
