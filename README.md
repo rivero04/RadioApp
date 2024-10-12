@@ -19,7 +19,8 @@ Una aplicación de radio online desarrollada en **React Native** que permite a l
 
 ## PreView
 
-![radio](https://github.com/user-attachments/assets/978cb768-e76b-441c-9862-c2fe9d477028)
+![prueba2 (1)](https://github.com/user-attachments/assets/89350d50-f4cd-488b-8232-c51ab12de061)
+
 
 ## Instalación
 
